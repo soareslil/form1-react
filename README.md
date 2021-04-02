@@ -14,6 +14,8 @@
 
 - [x] Deve conter um header com o nome do projeto 
 
+- [x] Deve conter um input do tipo Email
+
 - [] Deve conter um input do tipo Email com verificação de funcionalidade
 
 - [] Deve conter um input do tipo Nome de usuário
