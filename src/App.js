@@ -1,12 +1,19 @@
-import './App.css';
+import React from 'react';
+import LoginForm from './components/LoginForm';
+import RegistrationForm from './components/RegistrationForm';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <main className="App">
+        <LoginForm />
+        <RegistrationForm />
+      </main>
+
+    )
+  }
+
 }
+
 
 export default App;
