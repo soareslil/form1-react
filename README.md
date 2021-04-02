@@ -1,9 +1,7 @@
 ## React-FORMS
 
-- Projeto de: Liliane Soares
+- Projeto do tipo Formulário em Reactjs
 - Inicio do projeto: 02/04/2021
-
-- Projeto do tipo Formulário simples em Reactjs
 
 ### Linguagens utilizadas no projeto:
 
@@ -12,7 +10,7 @@
 - JavaScript
 - Reactjs
 
-#### Requisitos desenvolvidos no projeto: 
+#### Requisitos a serem desenvolvidos no projeto: 
 
 - [x] Deve conter um header com o nome do projeto 
 
