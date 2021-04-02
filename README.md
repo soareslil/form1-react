@@ -1,6 +1,6 @@
 ## React-FORMS
 
-- Feito por: Liliane Soares
+- Projeto de: Liliane Soares
 - Inicio do projeto: 02/04/2021
 
 - Projeto do tipo Formulário simples em Reactjs
