@@ -26,7 +26,7 @@ class LoginForm extends React.Component {
     return (
       <div>
         <section className="login-form" >
-          <h1>Login</h1>
+          <h1>Create Account</h1>
           <form
             onSubmit={this.handleSubmit}>
             <LoginInput value={login}
@@ -41,7 +41,7 @@ class LoginForm extends React.Component {
                 id="password"
               />
             </label>
-            <button type="submit">Login</button>
+            <button type="submit">Register</button>
           </form>
         </section>
       </div>
